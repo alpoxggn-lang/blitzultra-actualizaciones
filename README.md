@@ -1,15 +1,11 @@
 # BlitzUltra
 
-Reproductor Android con acceso y listas administrados desde ZenPanel. Requiere una cuenta activa.
+Reproductor Android con acceso y listas administrados desde ZenPanel.
 
-## Descarga fija para Downloader
+Descarga fija: https://github.com/alpoxggn-lang/blitzultra-actualizaciones/releases/latest/download/BlitzUltra.apk
 
-https://github.com/alpoxggn-lang/blitzultra-actualizaciones/releases/latest/download/BlitzUltra.apk
+Version 1.1.2: limite de dispositivos reproduciendo simultaneamente y reporte de actividad en ZenPanel. Abrir la app sin reproducir no consume un cupo. Requiere actualizar los dispositivos.
 
-En cada nueva version se conserva el nombre BlitzUltra.apk.
+Validacion: compilacion Android y tres pruebas de permisos de reproduccion; 45 pruebas del panel. Pendiente prueba de esta version en dispositivos fisicos.
 
-Version 1.1.1: canal de actualizaciones propio, acceso mediante el panel, listas asignadas y verificacion periodica del acceso. Sin Deportes, descargas de contenido ni grabacion de TV.
-
-El usuario confirmo carga, reproduccion y bloqueo al suspender la cuenta. Pruebas de nucleo: 1498 sin fallos; panel: 41 sin fallos. No se ha probado cada dispositivo fisico.
-
-Codigo correspondiente incluido en el ZIP de cada release, con avisos y licencias de OwnTV y dependencias conservados. GPL-3.0 segun LICENSE del proyecto; las dependencias conservan sus propias licencias. La firma de actualizacion existente se conserva.
+Codigo y licencias incluidos en cada release; firma de desarrollo existente conservada.
